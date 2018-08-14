@@ -4,8 +4,7 @@
 
 * Proto Shield R3 with miniBreadBoard **Fritzing part**: ![Proto Shield Mini Breadboard](ProtoShieldMiniBreadboard.fzpz)
 
-![Proto Shield Mini Breadboard](ProtoShieldMiniBreadBoard_bb.png)
-
+![Proto Shield Mini Breadboard](ProtoShieldMiniBreadboard_bb.png)
 
 ## Fritzing sketches
 
