@@ -1,19 +1,20 @@
-# Fritzing stuff of the project
+# Electrónica do mClon
 
-## Fritzing parts
+Neste repositorio poremos todo o relacionado ca parte electrónica do proxecto mClon.
 
-* Proto Shield R3 with miniBreadBoard **Fritzing part**: ![Proto Shield Mini Breadboard](ProtoShieldMiniBreadboard.fzpz)
+## Páxina do proxecto
 
-![Proto Shield Mini Breadboard](ProtoShieldMiniBreadboard_bb.png)
+Toda a información sobre o proxecto está en https://mclon.org
 
-## Fritzing sketches
+## Contribucións
 
-* **Esquema de montaje** driver y motores DC: ![Montaje driver y motores DC](montaje_driverymotores.fzz)
+Podes contribuir ó proxecto a través do noso [repositorio de contribucións](https://github.com/mClon/contribucions/), ou contactando con nos directamente via correo-e.
 
-![Montaje driver y motores DC](montaje_driverymotores_bb.png)
+## LICENCIA / LICENSE
 
+Este traballo está suxeito á licencia [GNU General Public v3.0 License](LICENSE-GPLV30). Todos os arquivos multimedia e de datos que non sexan código fonte están suxeitos á licencia [Creative Commons Attribution 4.0 BY-SA license](LICENSE-CCBYSA40).
 
-## LICENSE
+Mais información acerca destas licencias en [licencias Opensource](https://opensource.org/licenses/) e [licencias Creative Commons](https://creativecommons.org/licenses/).
 
 This work is licensed under the [GNU General Public License v3.0](LICENSE-GPLV30). All media and data files that are not source code are licensed under the [Creative Commons Attribution 4.0 BY-SA license](LICENSE-CCBYSA40).
 
