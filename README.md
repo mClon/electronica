@@ -1,6 +1,6 @@
 # Electrónica do mClon
 
-Neste repositorio poremos todo o relacionado ca parte electrónica do proxecto mClon.
+Neste repositorio poremos o relacionado coa parte electrónica do proxecto mClon.
 
 ## Páxina do proxecto
 
